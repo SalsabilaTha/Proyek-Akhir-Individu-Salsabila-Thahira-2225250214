@@ -1,0 +1,25 @@
+LAPORAN ANALISIS NILAI KELAS
+===================================
+Jumlah siswa valid: 10
+KKM: 75
+
+DAFTAR NILAI SISWA
+-----------------------------------
+Ayu: 85 - Tuntas
+Budi: 70 - Belum Tuntas
+Citra: 90 - Tuntas
+Dimas: 75 - Tuntas
+Eka: 80 - Tuntas
+Fajar: 60 - Belum Tuntas
+Gina: 95 - Tuntas
+Hadi: 70 - Belum Tuntas
+Intan: 85 - Tuntas
+Joko: 90 - Tuntas
+
+STATISTIK KELAS
+-----------------------------------
+Rata-rata: 80
+Nilai minimum: 60
+Nilai maksimum: 95
+Jumlah tuntas: 7
+Jumlah belum tuntas: 3
